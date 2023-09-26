@@ -20,3 +20,7 @@ This library includes all of the code to parse a Puppetfile and then calculate a
 - [Parsers](https://glennsarti.github.io/puppetfile-resolver/parsers)
 - [Example Usage](https://glennsarti.github.io/puppetfile-resolver/example_usage)
 - [Known Issues](https://glennsarti.github.io/puppetfile-resolver/known_issues)
+
+## Acknowledgement
+
+This repo is forked from https://github.com/glennsarti/puppetfile-resolver, which was written by the original author [Glenn Sarti](https://github.com/glennsarti).
